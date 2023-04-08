@@ -1,4 +1,4 @@
-Tijdstempel,What programme are you in?,Have you taken a course on machine learning?,Have you taken a course on information retrieval?,Have you taken a course on statistics?,Have you taken a course on databases?,What is your gender?,I have used ChatGPT to help me with some of my study assignments ,When is your birthday (date)?,age,How many students do you estimate there are in the room?,Did you stand up to come to your previous answer    ?,What is your stress level (0-100)?,How many hours per week do you do sports (in whole hours)? ,Give a random number,Time you went to bed Yesterday,What makes a good day for you (1)?,What makes a good day for you (2)?
+Tijdstempel,programme,course_ML,course_retrieval,course_statistics,course_databases,gender,ChatGPT,birthday,age,students_in_room,prev_answer_stand,stress_level,sports_per_week,random_number,bed_time,good_day_(1),good_day_(2)
 2023-04-04 12:16:05.346,AI,1,0,1,0,1,8,1999-05-14,23.0,100,0,50,1,1,04:30:00,Work,Relationships
 2023-04-04 12:08:33.342,AI,1,0,1,0,5,1,1997-11-23,25.0,319,NaN,100,0,69,23:30:00,Ashes,Not ashes
 2023-04-04 12:08:36.017,AI,0,0,0,0,1,8,,,600,0,60,2,42,23:00:00,good food,good sleep
